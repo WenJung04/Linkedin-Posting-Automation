@@ -1,0 +1,4 @@
+python-telegram-bot>=22,<23
+google-genai>=1,<2
+python-dotenv>=1,<2
+pytest>=8
