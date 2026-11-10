@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Runtime data (SQLite database, downloaded photos)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
